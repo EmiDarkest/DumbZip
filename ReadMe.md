@@ -1,4 +1,4 @@
-﻿# ![NanaZip](Assets/NanaZip.png) NanaZip
+﻿# ![DumbZip](Assets/NanaZip.png) DumbZip
 
 [![GitHub Actions Build Status](https://github.com/M2Team/NanaZip/actions/workflows/BuildBinaries.yml/badge.svg?branch=master&event=push)](https://github.com/M2Team/NanaZip/actions/workflows/BuildBinaries.yml?query=event%3Apush+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/github/downloads/M2Team/NanaZip/total)](https://github.com/M2Team/NanaZip/releases)
